@@ -1,2 +1,0 @@
-Current, Power
-0.503,15.3
